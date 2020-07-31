@@ -138,6 +138,10 @@ To deter future catastrophe, the newer private push address is listed here:
 
     bsv://KzywA1GLJacYP7EBmAa4Pze2vKnTbYCdfcUkJUWuq8sLR6pHoT9h/git-remote-bsv.git
 
+UPDATE: The original repo private key has been recovered, and here it is:
+
+    bsv://KwE4XDqQrAf612gqDkwU89DyRNRiQ4uZRRhbxRqN5L1QCS9wbqjP/git-remote-bsv.git
+
 Please do not steal this particular money.
 
 ## License
